@@ -1,4 +1,4 @@
-# Dice Escalation Challenge
+# The Dice Game
 
 A fun dice rolling game built with Pygame where you progress through increasingly difficult levels by rolling sixes!
 
